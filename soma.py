@@ -1,0 +1,5 @@
+x = input ("Digite o primeiro número: ")
+x = int(x)
+y = input ("Digite o segundo número: ")
+y = int(y)
+print ("O resultado da soma é: ", x + y)
